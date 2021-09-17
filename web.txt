@@ -1,0 +1,22 @@
+How does the internet work?
+The internet is a world wide network of smaller networks that are 
+made up of millions of interconnected computers. In order to make this
+interconnection work, protocols had to be devised and implented in order to
+standardize the way information is sended and recieved over the internet,
+how to propperly identify a device on the internet and stablish a way to ensure
+the tranfer of information is dependable and reliable.
+
+What happens when you click on a link?
+Links are the way for us to access other web pages. In order to succesfully
+access another page our browser:
+
+1 - Needs to resolve the domain name in the URL contained in the link 
+we are using to an IP address with the help of the DNS servers.
+
+2 - Once the browser has the IP address, it needs to make a request to
+the server that host the web page that we want to access.
+
+3 - The server responds to the request by sending a copy of the web page
+HTML text and any other resources needed to propperly render it.
+
+4 - Our requested web page is finally rendered.
